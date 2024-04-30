@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2024-04-30T18:22:43.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZNSwQHLnawGOVNIwMNnD" version="24.0.1" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="2314" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-1" value="Departments" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="100" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-2" value="EMPLOYEES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="90" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-3" value="Works in" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="100" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-4" value="Module" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-5" value="Students" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="220" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-6" value="Studies" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-7" value="Lectures" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="370" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-8" value="Module" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="360" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-10" value="Card" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="520" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-11" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="510" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-13" value="Department" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="670" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-14" value="Coordinator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="660" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="279.69" as="sourcePoint" />
+            <mxPoint x="410" y="279.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="139.69" as="sourcePoint" />
+            <mxPoint x="410" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="139.69" as="sourcePoint" />
+            <mxPoint x="610" y="139.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-25" value="Teaches" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="419.69" as="sourcePoint" />
+            <mxPoint x="405" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="419.69" as="sourcePoint" />
+            <mxPoint x="600" y="419.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-28" value="Uses" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="559.69" as="sourcePoint" />
+            <mxPoint x="405" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="559.69" as="sourcePoint" />
+            <mxPoint x="595" y="559.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-31" value="Works for" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="709.69" as="sourcePoint" />
+            <mxPoint x="410" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="709.69" as="sourcePoint" />
+            <mxPoint x="600" y="709.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="280" as="sourcePoint" />
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEg_cs4jdIOJF6-CDXrI-36" value="Explanations:&lt;br&gt;&lt;br&gt;1.&amp;nbsp; One Employee works for one department&lt;div&gt;2.Many students can pursue one module, but there woluld only be one instance of the module for each student&lt;/div&gt;&lt;div&gt;3.One module is taught by one teacher&lt;/div&gt;&lt;div&gt;4.One customer uses one card&lt;/div&gt;&lt;div&gt;5. One coordinator works for one department&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="810" width="600" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
