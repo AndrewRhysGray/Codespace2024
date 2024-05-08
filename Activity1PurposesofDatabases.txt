@@ -1,0 +1,20 @@
+Activity 1: Purposes of Databases
+
+1. What job do databases serve in relation to a fullstack site.
+
+2. Describe the two parts of the SQL language - DML (Data Manipulation Language) and DDL (Data Definition Language).
+
+3. MySQL is regarded as possibly the most popular relational database in the market. Locate some facts concerning it, such as it's history, it's interface and the development of Xampp as the IDE which presents a interface for the designer.
+
+
+My answers:
+
+1. Databases are a backend function that can store and manipulated data with the intended effect to develop functionality, in comparison to the interaction of rendering and styling of the page which would be based on the front end.
+
+2. DML is the development of the general database, ddl is the the development of the tables, schema and objects
+
+3. MYSQL is a relational database management system that came under Oracle Corperation in 2010. 
+
+MySQL is seen as a dynamically resourceful system due to it's several interfaces, it's interactive CLI, it's support of different API's and it's administrative tool for webpages: phpMyAdmin
+
+ Xampp is a package that simplifies aspects of running web servers, It's fairly easy to use and readily available across different operating systems.
